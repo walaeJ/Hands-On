@@ -29,6 +29,19 @@ if (age > 10) {
         console.log("Permitted to attend alone")
     };
 
+    let param1 = 20;
+    let param2 = 15;
+    const Sum1 = (param1, param2) => 20 + 15;
+    console.log(20 + 15);
+
+    const Sum2 = (param1, param2) => (20 + 15) / 2;
+    console.log(20 + 15) / 2;
+
+    const Sum3 = (param1, param2) => (20 / 15);
+    console.log = (20 / 15);
+
+    
+
 
 
 
